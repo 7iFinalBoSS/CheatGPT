@@ -6,9 +6,18 @@ in a mobile environment. This application allows users to extract text from imag
 
 ## Images
 
-![Image description](images/1.jpeg)
-![Image description](images/2.jpeg)
-![Image description](images/3.jpeg)
+<picture>
+    <img src="https://github.com/7iFinalBoSS/CheatGPT/blob/main/images/1.jpeg">
+</picture>
+
+<picture>
+    <img src="https://github.com/7iFinalBoSS/CheatGPT/blob/main/images/2.jpeg">
+</picture>
+
+<picture>
+    <img src="https://github.com/7iFinalBoSS/CheatGPT/blob/main/images/3.jpeg">
+</picture>
+
 
 
 ## Features
